@@ -8,6 +8,26 @@ The tool can be highly beneficial in several ways. First, it helps in making inf
 
 #
 
+| Rank | File Format | Complexity Level | Conversion Difficulty | Usability Difficulty | Easiest Convertible Format |
+|------|-------------|------------------|-----------------------|----------------------|----------------------------|
+| 1    | TXT         | Low              | Very Easy             | Very Easy            | RTF                        |
+| 2    | CSV         | Low              | Very Easy             | Very Easy            | XLSX                       |
+| 3    | RTF         | Low              | Easy                  | Easy                 | DOCX                       |
+| 4    | XLSX        | Medium           | Easy                  | Medium               | CSV                        |
+| 5    | DOCX        | Medium           | Easy                  | Medium               | PDF                        |
+| 6    | HTML        | Medium           | Easy                  | Medium               | PDF                        |
+| 7    | PDF         | Medium           | Medium                | Easy                 | DOCX                       |
+| 8    | JPEG        | Medium           | Easy                  | Easy                 | PNG                        |
+| 9    | PNG         | Medium           | Easy                  | Easy                 | JPEG                       |
+| 10   | JSON        | Medium           | Medium                | Medium               | CSV                        |
+| 11   | XML         | High             | Medium                | High                 | JSON                       |
+| 12   | MP3         | Medium           | Easy                  | Easy                 | WAV                        |
+| 13   | MP4         | High             | Medium                | Medium               | AVI                        |
+| 14   | ZIP         | High             | Medium                | Medium               | TAR                        |
+| 15   | PSD         | High             | Hard                  | High                 | PNG                        |
+
+#
+
 ![Format](https://github.com/user-attachments/assets/a1a7a3ca-22db-47fa-85de-5d5cc1fa98e5)
 
 #
