@@ -38,6 +38,8 @@ The tool can be highly beneficial in several ways. First, it helps in making inf
 [Format Developer](https://github.com/sourceduty/Format_Developer)
 <br>
 [Format Origin](https://github.com/sourceduty/Format_Origin)
+<br>
+[Serial Format](https://github.com/sourceduty/Serial_Format)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
